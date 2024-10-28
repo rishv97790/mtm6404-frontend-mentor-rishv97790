@@ -1,5 +1,5 @@
-# Name: Kirandeep Kaur
-# Student ID: 90541113119
+# Name: Ravinderpal Sharma
+# Student ID: 90541112583
 # Frontend Mentor - News Homepage Solution
 This is a solution to the News homepage challenge on Frontend Mentor. Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 # The Challenge
@@ -9,7 +9,7 @@ See hover and focus states for all interactive elements on the page.
 Toggle between light and dark mode for improved accessibility and user experience.
 # Screenshot
 ![Screenshot (1143)](https://github.com/user-attachments/assets/98c60337-cfff-4504-b1bf-60595dcc81ab)
-![Screenshot (1144)](https://github.com/user-attachments/assets/eed40f5e-0e0e-4ba3-8d19-d6d1dcf256d1)
+![image](https://github.com/user-attachments/assets/06ffff99-a3c3-4bbc-8843-1aa40b030944)
 # My Process
 Built With
 Semantic HTML5 markup for better structure and accessibility.
